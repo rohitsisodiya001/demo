@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b41563f0f2d694d5fe7f9fa1b00a7fa9bcb8746a">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fe1725409a5ec7b515c5fad245711baae0c1ec79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0501e1a10dec363414128e0ed317d6fd2299eaa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f283970a4c0485fa01c5b471ec238a7b5d1fa18d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_0bdb290cee35d4cfa9e218d056f68a62bc5f92a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_6d9e593a150d45c33f189941b6728176d50d4a35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_1935a2151f149eff2e73042a78b08a4b1908c2f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_21be2e4b82c317b5b991a19795c13e3ae86df495\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_2c8c74db000b11c16880fdc957c05bd7884731c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_bb636fbbc9fef18aad54758dbecc9885b63add42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_a85a439a4f519d42513683450d178d3cc7feed61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_bc109f855ff19c8ee63b517c650e681386d0b8c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_cf959e73a3ab0856347017a6e9f612092257f157\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_e68a1ba4f2cbb31d002b3057019d77d22ce6bff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4484c63f2e174c94118d2ffb5024917ac97cef19">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5a46b5452b21ce53da6db552c4845cdad8863830\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_36abee2332b3591ee3b7f42f77c9d5bb5b04a192\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_49a53218500a5d2a349b1212193d46bb94395ba8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SSISM\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_28e58f840fa0bac1ff56eb5be0b5525666b9c9f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_d36f2059874048db67cdf2c4a2c0f1fdfdd92b9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PointofSalesCode\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\PointofSalesCode\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_70290d7f6563526af1fbdda00ce4d0f9e60f1917\classes.dex" />
+    </item>
+
+</items>
